@@ -43,3 +43,19 @@ Next steps:
 - SQL analysis
 - Dashboard development
 - Insight generation
+## Research Questions
+
+### 1. Goals & Discipline
+Which teams accumulated the most goals and yellow cards during the season?
+
+### 2. Discipline & League Position
+Is there a relationship between yellow card accumulation and league position?
+
+### 3. Referee Influence
+Are certain referees associated with significantly different match outcomes and disciplinary patterns?
+
+### 4. Shot Efficiency
+To what extent do shot volume and shot accuracy predict match outcomes?
+
+### 5. Home Advantage
+Does playing at home provide a statistically significant advantage in Premier League matches?
