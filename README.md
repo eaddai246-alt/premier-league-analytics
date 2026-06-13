@@ -1,2 +1,45 @@
-# premier-league-analytics
-Analysis of Premier League performance data using SQL, Excel and Power BI.
+# Premier League Analytics
+
+## Project Overview
+
+This project explores Premier League 2025/26 match data to identify performance trends, team efficiency, home advantage, and other football insights using data analytics techniques.
+
+## Objectives
+
+- Analyse team performance throughout the season
+- Investigate goal-scoring and defensive trends
+- Explore relationships between shots, shots on target, and match outcomes
+- Examine referee statistics and disciplinary records
+- Build visualisations and dashboards using Power BI
+- Develop SQL skills through real-world football data analysis
+
+## Tools
+
+- Excel
+- SQL
+- Power BI
+- GitHub
+
+## Dataset
+
+Premier League 2025/26 match statistics including:
+
+- Goals scored
+- Shots
+- Shots on target
+- Fouls
+- Corners
+- Yellow cards
+- Red cards
+- Match results
+- Referee information
+
+## Current Status
+
+Project setup complete.
+
+Next steps:
+- Data exploration
+- SQL analysis
+- Dashboard development
+- Insight generation
